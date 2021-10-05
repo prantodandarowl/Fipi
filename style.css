@@ -1,0 +1,53 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.front-back{
+    background: linear-gradient(0deg, rgba(237,234,224,1) 0%, rgba(195,235,218,1) 100%);
+    padding-bottom: 5px;
+    
+}
+
+.btn{
+    border-radius: 33px;
+    padding: 10px;
+    color: cornsilk;
+}
+
+.padd{
+    padding-left: 30px;
+}
+
+.tex{
+    font-family: poppins;
+    color: rgb(141, 130, 108);
+}
+
+hr.new3 {
+    border-top: 2px dotted red;
+  }
+  
+
+
+  .imm{
+      height: 300px;
+      width: 300px;
+  }
+/* *************************** */
+
+  .one{
+      
+      color: linear-gradient(0deg, rgba(242,175,39,0.9640231092436975) 0%, rgba(138,31,204,1) 100%);
+
+  }
+
+  .three{
+      font-size:30px;
+      background: linear-gradient(0deg, rgba(247,221,132,0.9640231092436975) 0%, rgba(30,70,40,1) 100%);
+  }
+
+.two{
+    
+  font-size: xx-large;
+  color: rgb(122, 14, 14);
+}
